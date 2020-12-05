@@ -1,0 +1,7 @@
+C:\Users\Bear\Dropbox\WSE\P Stenography\P Stenography\bin\Debug\P Stenography.exe.config
+C:\Users\Bear\Dropbox\WSE\P Stenography\P Stenography\bin\Debug\P Stenography.exe
+C:\Users\Bear\Dropbox\WSE\P Stenography\P Stenography\bin\Debug\P Stenography.pdb
+C:\Users\Bear\Dropbox\WSE\P Stenography\P Stenography\obj\Debug\P Stenography.csprojAssemblyReference.cache
+C:\Users\Bear\Dropbox\WSE\P Stenography\P Stenography\obj\Debug\P Stenography.csproj.CoreCompileInputs.cache
+C:\Users\Bear\Dropbox\WSE\P Stenography\P Stenography\obj\Debug\P Stenography.exe
+C:\Users\Bear\Dropbox\WSE\P Stenography\P Stenography\obj\Debug\P Stenography.pdb
